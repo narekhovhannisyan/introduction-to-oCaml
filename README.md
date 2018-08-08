@@ -1,2 +1,3 @@
 # introduction-to-oCaml
-Introduction to oCaml presentation with Impress JS.
+
+Introduction to oCaml presentation with spectacle boilerplate.
